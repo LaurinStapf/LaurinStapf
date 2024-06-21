@@ -5,8 +5,7 @@
 - 🧰 I enjoy programming web applications.
 
 ### Skills
-- **Languages:** PHP, X++, JavaScript, HTML, CSS
-- **Frameworks:** Laravel
+- **Languages:** PHP (Laravel), X++, JavaScript
 - **Tools:** Visual Studio Code, Visual Studio, Git, Docker, Hyper-V
 
 ### Projects
