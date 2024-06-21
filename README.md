@@ -1,6 +1,6 @@
 ## Hi there, I'm Laurin 👋
 
-- 💼 Working @WIKA-Group
+- 💼 Working @ WIKA Group
 - 📫 How to reach me: [laurinstapf.com](http://laurinstapf.com)
 - 🧰 I enjoy programming web applications.
 
