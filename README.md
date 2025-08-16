@@ -10,5 +10,5 @@
 
 ### Projects
 - :white_check_mark: Created my own [DMS](https://github.com/laurinstapf/premai)
-- :construction_worker: Programming for [Training4You](https://github.com)
+- :construction_worker: Programming my own Visual Studio Code extension [Laravel Artisan](https://github.com/laurinstapf/vscode-laravel-artisan)
 - :hourglass_flowing_sand: Programming something with music... 
