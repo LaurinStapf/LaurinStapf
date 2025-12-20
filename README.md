@@ -1,14 +1,6 @@
 ## Hi there, I'm Laurin 👋
 
-- 💼 Developer @ WIKA Group
-- 📫 How to reach me: [laurinstapf.com](http://laurinstapf.com)
-- 🧰 I enjoy programming web applications.
-
-### Skills
-- **Languages:** PHP (Laravel), X++, JavaScript
-- **Tools:** Visual Studio Code, Visual Studio, Git, Docker, Hyper-V
-
-### Projects
-- :white_check_mark: Created my own [DMS](https://github.com/laurinstapf/premai)
-- :construction_worker: Programming my own [VS Code Extension](https://github.com/laurinstapf/vscode-laravel-artisan)
-- :hourglass_flowing_sand: Programming something with music... 
+- 🏢 I'm a Software Developer for WIKA Alexander Wiegand SE & Co. KG @WIKA-Group
+- 🚀 I enjoy programming web applications based on the Laravel Framework
+- 🤝 I'm open to connecting on [LinkedIn](https://www.linkedin.com/in/laurin-stapf).
+- 🚒 I'm also a volunteer firefighter outside of work.
